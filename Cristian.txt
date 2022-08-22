@@ -1,3 +1,11 @@
 HI
 
 hola mundo 
+
+<<<<<<< HEAD
+hola marvin 
+=======
+hola que tal 
+
+
+>>>>>>> b43b4baef364d2fa23c8b37c3aaecf9ba729ffd6
