@@ -17,3 +17,7 @@ En caso de fallo o equivocaciones
  git restore . --> restaura todos los archivo que aun no estan en un commit
  git restore [ruta] --> restaura un  archivo que aun no estan en un commit
 
+En caso de conflictos 
+  git diff --base . --> revisa si hay conflictos en los archivos
+  git diff --base [Ruta del archivo] --> revisa si hay conflictos en los archivos
+
