@@ -13,3 +13,7 @@ Subir cambios
 Descargar cambio a mi repositorio loca
  git pull --> actualiza mi repositorio local con lo que hay en el remoto
 
+En caso de fallo o equivocaciones
+ git restore . --> restaura todos los archivo que aun no estan en un commit
+ git restore [ruta] --> restaura un  archivo que aun no estan en un commit
+
