@@ -10,3 +10,6 @@ Subir cambios
   git commit -m "Comentario" --> para guardar en mi repositorio local
   git push  origin main    --> subir mi cambios locales al remoto
 
+Descargar cambio a mi repositorio loca
+ git pull --> actualiza mi repositorio local con lo que hay en el remoto
+
