@@ -1,0 +1,12 @@
+Configuraciones iniciales
+     git config --global user.email tuemail@ejemplo.com --> agregar el contribuye de manera global
+     git config --local user.email tuemail@ejemplo.com --> agregar el contribuye de manera local
+
+Subir cambios
+  git status --> para ver los archivos modificados o agregados
+  git add . --> para preparar todos archivo
+  git add [ruta del archivo] --> para prerar un archivo en especifico
+  
+  git commit -m "Comentario" --> para guardar en mi repositorio local
+  git push  origin main    --> subir mi cambios locales al remoto
+
